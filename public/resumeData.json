@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name": "Back Levente",
+    "occupation": "Student who is learning web development",
+    "description": "I'm a student learning full-stack web development",
+    "image": "https://scontent.ftsr1-1.fna.fbcdn.net/v/t1.0-9/35297165_2156267377952025_3837409998867005440_o.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=2esbsoTRBVAAX9JU16U&_nc_ht=scontent.ftsr1-1.fna&oh=61530ba71a34041a01cd8663649c47a7&oe=5F7C2D35",
+    "bio": "My name is Levi, I'm a student who is learning some web development skills to get a high paying job.",
+    "contactmessage": "Get in touch with to hire me.",
+    "email": "backistvanlevente17@gmail.com",
+    "phone": "+40 12 345 6789",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Arad",
+      "state": "Romania",
+      "zip": "ABC 123"
+    },
+    "website": "/",
+    "resumedownload": "https://github.com/LeventeBack/react-portfolio",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/istvanlevente.back",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/leventeback/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/LeventeBack",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "PHP",
+        "level": "66%"
+      },
+      {
+        "name": "MySQL",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "React Shopping app",
+        "category": "React Shopping app hosted on firebase",
+        "image": "ShopApp.png",
+        "url": "https://react-shop-app-f4959.firebaseapp.com/"
+      },
+      {
+        "title": "JavaScript Puzzle",
+        "category": "Drag and drop JavaScript Puzzle using unsplash API",
+        "image": "PuzzleApp.png",
+        "url": "https://gracious-bell-4d629f.netlify.app/"
+      },
+      {
+        "title": "TicTacToe game",
+        "category": "TicTacToe game with 'VS' and 'Against BOT' mode",
+        "image": "TicTacToeApp.png",
+        "url": "https://focused-einstein-f60db5.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "My student is way better than all the other kids in his class he will become a great developer.",
+        "user": "(school IT teacher)"
+      }
+    ]
+  }
+}
